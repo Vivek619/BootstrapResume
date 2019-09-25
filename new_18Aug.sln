@@ -10,13 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new1_aug20", "new1_aug20\new1_aug20.csproj", "{291D1A07-56D4-4429-A8B2-2F424E25A1E5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new2_21Aug", "new2_21Aug\new2_21Aug.csproj", "{D0670143-A6F5-4BF1-976F-702A6E151448}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new3_30Aug", "new3_30Aug\new3_30Aug.csproj", "{CAC8C3AF-0B74-4D49-8F33-857D484ED23E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new4_Sep2", "new4_Sep2\new4_Sep2.csproj", "{53D9996C-5B57-4AAC-96EB-6D2422292C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
