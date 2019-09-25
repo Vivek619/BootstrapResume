@@ -67,8 +67,3 @@ C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\System.W
 C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\Antlr3.Runtime.pdb
 C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\Newtonsoft.Json.xml
 C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\obj\Debug\new2_21Aug.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\Microsoft.Owin.dll
-C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\Owin.dll
-C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\Microsoft.Owin.xml
-C:\Users\user\Desktop\projects\new_18Aug\new2_21Aug\BootstrapResume\bin\Microsoft.Owin.Host.SystemWeb.xml
